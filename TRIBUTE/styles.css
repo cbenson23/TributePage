@@ -1,0 +1,19 @@
+#image {
+    display: block;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;}
+
+    table,th,td {
+        border:1px solid black;}
+
+        table{
+            width:60%;}
+
+            
+          body {
+            background-color: aqua;}
+
+            .intro
+            {color: red;
+            text-align: center;}
